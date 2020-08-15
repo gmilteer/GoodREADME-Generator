@@ -29,22 +29,22 @@ function generateMarkdown(data) {
   6. [Testing](#userTesting)
   7. [Questions](#questions)
 
-  # projectDescription:
+  # Project Description:
   ${data.projectDescription}
   
-  # installationProcess:
+  # Installation Process:
   ${data.installationProcess}
   
-  # userUsage:
+  # User Usage:
   ${data.userUsage}
   
-  # licenseUrl:
+  # License:
   ${data.licenseUrl}
   
-  # userContributors:
+  # Contributors:
   ${data.userContributors}
   
-  # userTests:
+  # Tests:
   ${data.userTesting}
   
   

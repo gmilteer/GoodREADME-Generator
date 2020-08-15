@@ -12,22 +12,22 @@
   6. [Testing](#userTesting)
   7. [Questions](#questions)
 
-  # projectDescription:
-  README gerated after user follows prompts
+  # Project Description:
+  This application generates a README.md from the user's input. The application will be invoked using node index.js. The user will follow the prompts to gereate the README.md.
   
-  # installationProcess:
-  npm init, npm install axios, npm inquirer
+  # Installation Process:
+   npm init, npm install inquirer, npm install axios
   
-  # userUsage:
-  to generate a good readme
+  # User Usage:
+  User is prompted to answer questions. Once the questions are answered, a README file will be generated.
   
-  # licenseUrl:
+  # License:
   MIT
   
-  # userContributors:
+  # Contributors:
   Georgia Milteer
   
-  # userTests:
+  # Tests:
   test
   
   https://drive.google.com/file/d/1v4PRAYIJLHMFwq9OWZtBPUoQ15E4RilT/view
